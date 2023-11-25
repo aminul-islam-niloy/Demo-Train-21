@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CRC\BankAccount.cs" />
+    <Compile Include="CRC\Transaction.cs" />
     <Compile Include="Objct and Class\Student.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
